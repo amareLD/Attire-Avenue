@@ -1,0 +1,30 @@
+
+//NOTE :  Questions
+
+    //TODO : How create DB  - Done
+
+    //TODO : Product ekak add weddi category doc ekth update wenna one
+
+    //TODO : Images implement kre na
+
+    //TODO : JWT use krnne kohomda
+
+    //TODO : DB eke docs Cloths shop ekakt galapenna hdnna one thawa
+
+    //TODO : Data validation hdnna one
+
+    //TODO : frontend eken ewna tot ekai backend tot ekai match krana validation ekk one
+
+    //TODO : controllers add krt psse req.params tikai Id illana ewai poddk blnna one
+
+    //TODO : controllers add krt psse req.params tikai Id illana ewai poddk blnna one
+
+    //TODO : tocken eke timeout eka hdnna one
+
+    //TODO : cart eka hdnn log wenna onema na - feature
+
+
+
+//NOTE : Updates
+    next update
+         - Wishlist
